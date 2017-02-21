@@ -13,5 +13,8 @@
     "babel-preset-airbnb": "^2.2.3",
     "babel-register": "^6.23.0",
     "enzyme": "^2.7.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2"
   }
 }
