@@ -12,7 +12,9 @@
     "babel": "^6.23.0",
     "babel-preset-airbnb": "^2.2.3",
     "babel-register": "^6.23.0",
-    "enzyme": "^2.7.1"
+    "chai": "^3.5.0",
+    "enzyme": "^2.7.1",
+    "mocha": "^3.2.0"
   },
   "dependencies": {
     "react": "^15.4.2"
